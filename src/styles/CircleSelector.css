@@ -1,0 +1,29 @@
+.circle-selector {
+  margin: 2rem 0;
+}
+
+.circles-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.circle-button {
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background: white;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.circle-button:hover {
+  background: #f5f5f5;
+}
+
+.circle-button.selected {
+  background: #4CAF50;
+  color: white;
+  border-color: #4CAF50;
+}

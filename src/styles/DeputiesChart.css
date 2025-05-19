@@ -1,0 +1,47 @@
+.deputies-chart {
+  width: 100%;
+}
+
+.deputies-chart h3 {
+  margin: 0 0 1.5rem 0;
+  color: #333;
+  text-align: center;
+  font-size: 1.8rem;
+}
+
+.chart-container {
+  height: 400px;
+  width: 100%;
+}
+
+.deputies-summary {
+  text-align: center;
+  margin-top: 1.5rem;
+  font-weight: bold;
+  color: #666;
+  font-size: 1.2rem;
+}
+
+.deputies-summary p {
+  margin: 0;
+}
+
+.recharts-tooltip-wrapper {
+  outline: none;
+}
+
+.recharts-default-tooltip {
+  background-color: white !important;
+  border: 1px solid #ccc !important;
+  border-radius: 4px !important;
+  padding: 8px !important;
+}
+
+.recharts-legend-item {
+  margin: 0 10px !important;
+}
+
+.recharts-legend-item-text {
+  color: #333 !important;
+  font-size: 14px !important;
+}

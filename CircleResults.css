@@ -1,0 +1,57 @@
+.circle-results {
+  padding: 1rem;
+}
+
+.circles-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.circle-card {
+  background: white;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.circle-card h4 {
+  margin: 0 0 1rem 0;
+  color: #333;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 0.5rem;
+}
+
+.circle-stats {
+  margin-bottom: 1rem;
+}
+
+.stat {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+}
+
+.party-results {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.party-result {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 0.5fr;
+  gap: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.party-name {
+  font-weight: 500;
+}
+
+.party-seats {
+  text-align: center;
+  font-weight: bold;
+  color: #4CAF50;
+}
