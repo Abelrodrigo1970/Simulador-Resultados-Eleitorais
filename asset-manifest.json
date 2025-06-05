@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Simulador-Resultados-Eleitorais/static/css/main.ecd3c595.css",
-    "main.js": "/Simulador-Resultados-Eleitorais/static/js/main.e58d9a0e.js",
+    "main.js": "/Simulador-Resultados-Eleitorais/static/js/main.e5000a5c.js",
     "static/js/239.3de58dbb.chunk.js": "/Simulador-Resultados-Eleitorais/static/js/239.3de58dbb.chunk.js",
     "static/js/977.980ee7fe.chunk.js": "/Simulador-Resultados-Eleitorais/static/js/977.980ee7fe.chunk.js",
     "static/js/455.9728d19c.chunk.js": "/Simulador-Resultados-Eleitorais/static/js/455.9728d19c.chunk.js",
     "static/js/453.94eb13e1.chunk.js": "/Simulador-Resultados-Eleitorais/static/js/453.94eb13e1.chunk.js",
     "index.html": "/Simulador-Resultados-Eleitorais/index.html",
     "main.ecd3c595.css.map": "/Simulador-Resultados-Eleitorais/static/css/main.ecd3c595.css.map",
-    "main.e58d9a0e.js.map": "/Simulador-Resultados-Eleitorais/static/js/main.e58d9a0e.js.map",
+    "main.e5000a5c.js.map": "/Simulador-Resultados-Eleitorais/static/js/main.e5000a5c.js.map",
     "239.3de58dbb.chunk.js.map": "/Simulador-Resultados-Eleitorais/static/js/239.3de58dbb.chunk.js.map",
     "977.980ee7fe.chunk.js.map": "/Simulador-Resultados-Eleitorais/static/js/977.980ee7fe.chunk.js.map",
     "455.9728d19c.chunk.js.map": "/Simulador-Resultados-Eleitorais/static/js/455.9728d19c.chunk.js.map",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.ecd3c595.css",
-    "static/js/main.e58d9a0e.js"
+    "static/js/main.e5000a5c.js"
   ]
 }
