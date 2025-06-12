@@ -35,7 +35,7 @@ const ElectionSimulator = () => {
     };
 
     // Tentar carregar o CSV, mas usar dados de teste se falhar
-    fetch('./election_results_2024.csv')
+    fetch(`${window.location.origin}/Simulador-Resultados-Eleitorais/election_results_2024.csv`)
       .then(response => {
         if (!response.ok) {
           throw new Error('Erro ao carregar o ficheiro CSV');
